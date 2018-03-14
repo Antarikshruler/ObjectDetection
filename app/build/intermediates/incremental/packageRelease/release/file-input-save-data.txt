@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Fri Mar 09 22:56:57 IST 2018
+7.path=graph.lite
+2.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+5.set=NATIVE_RESOURCE
+0.path=BUILD
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=labels.txt
+4.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=lib/x86/libtensorflowlite_jni.so
+5.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+4.set=NATIVE_RESOURCE
+3.path=lib/armeabi-v7a/libtensorflowlite_jni.so
+6.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\transforms\\dex\\release\\0
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/arm64-v8a/libtensorflowlite_jni.so
+7.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\assets\\release
+6.set=DEX
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/x86_64/libtensorflowlite_jni.so
+0.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\assets\\release
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=classes.dex
+1.base=C\:\\Users\\antar\\AndroidStudioProjects\\tflite\\app\\build\\intermediates\\assets\\release
+4.baseType=DIRECTORY
+0.set=ASSET
