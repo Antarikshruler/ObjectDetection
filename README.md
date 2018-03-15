@@ -1,1 +1,2 @@
 # ObjectDetection
+Object detection for blind people using Inception v3 model: I used transfer learning, which means training a model that has been already trained on another problem, for image detection of daily life objects. The object detection is real time with the help of OpenCV libraries for real time video capture. I used a model trained on the ImageNet Large Visual Recognition Challenge dataset with the help of tensorflow. The inception v3 uses Convolution Networks.
